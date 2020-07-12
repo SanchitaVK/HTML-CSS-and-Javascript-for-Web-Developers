@@ -1,3 +1,3 @@
 # HTML-CSS-and-Javascript-for-Web-Developers
-This contains the assignments for the Coursera course : HTML CSS and Javascript for Web Developers(Johns Hopkins University). 
-[Click here the ouput](https://sanchitavk.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module2-solution/)
+This contains the assignments for the Coursera course : HTML CSS and Javascript for Web Developers(Johns Hopkins University).   
+[CLICK HERE TO SEE THE OUTPUT](https://sanchitavk.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module2-solution/)
